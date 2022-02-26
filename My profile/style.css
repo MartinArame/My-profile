@@ -1,0 +1,26 @@
+body {
+	background: F7F7F7;
+	color:#395B64;
+	font-family:Roboto;
+	font-weight: lighter; 
+	font-size: 16px;
+}
+h1, h2, h3 {
+	font-family: Roboto;
+}
+h1 {
+	font-family: Times;
+	font-size: 44px;
+	font-weight: unset;
+	color: #203239;
+}
+h2{
+	color:#9C0F48;
+	font-family: Times;
+	font-size: 26px;
+	font-weight: bolder;
+}
+a {
+	color:#1C658C;
+	font-weight: bolder;
+}
